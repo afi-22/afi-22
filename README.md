@@ -1,46 +1,61 @@
-👋 Hi, I’m Afi Maredia
+# 👋 Hi, I’m **Afi Maredia**
 
-💡 Software Developer | Problem Solver | Always Learning
+💡 *Software Developer | Problem Solver | Continuous Learner*
 
-I'm a Computer Science graduate from Dalhousie University with a passion for building meaningful software, improving user experiences, and using technology to solve real-world challenges. I enjoy working across the stack — from backend logic and cloud deployments to clean and intuitive front-end interfaces.
+I'm a Computer Science graduate from **Dalhousie University**, passionate about building efficient, scalable, and user-focused software. I enjoy working across the stack—from backend development and automation to front-end experience and cloud deployments.
 
-🚀 What I’m Working On
+---
 
-Building full-stack applications using Java, Python, and JavaScript
+## 🚀 What I’m Working On
 
-Enhancing skills in Cloud Computing (AWS + Azure)
+- Full-stack projects using **Java, Python, and JavaScript**
+- Improving Cloud Computing expertise with **AWS + Azure**
+- Learning more about **Data Engineering + Machine Learning**
+- Building professional, production-ready applications
 
-Exploring Data Engineering + Machine Learning applications
+---
 
-Creating polished, scalable coding projects to share on GitHub
+## 🧠 Tech Stack
 
-🧠 Tech Stack & Skills
-💻 Languages
+### 💻 Programming Languages  
+`Java` · `Python` · `JavaScript` · `PHP` · `C#` · `C` · `SQL` · `Kotlin`
 
-Java • Python • JavaScript • PHP • C# • C • SQL • Kotlin
+### 🌐 Web & Frameworks  
+`React` · `Node.js` · `REST APIs` · `HTML` · `CSS` · `Bootstrap`
 
-🌐 Web & Frameworks
+### ☁️ Cloud & DevOps  
+`AWS` · `Azure` · `Git` · `Docker` · `CI/CD`
 
-React • Node.js • HTML • CSS • REST APIs • Bootstrap
+### 🗄️ Databases  
+`MySQL` · `PostgreSQL` · `MongoDB`
 
-☁️ Cloud & Tools
+### 📊 Data Tools  
+`Power BI` · `Excel` · `Pandas` · `Matplotlib`
 
-AWS • Azure • Git • Docker • CI/CD
+---
 
-🗄️ Databases
+## 📈 GitHub Stats
 
-MySQL • PostgreSQL • MongoDB
+<!-- Uncomment the stats below by removing the <!–– ––> tags -->
 
-📊 Data & Analytics
+<!--
+![Afi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+-->
 
-PowerBI • Excel • Pandas • Matplotlib
+---
 
-🎯 Interests
+## 📫 Connect With Me
 
-FinTech, SaaS, and cloud-native applications
+📍 Halifax, Nova Scotia  
+📧 **marediaafi@gmail.com**  
+🔗 LinkedIn: *(Add link here if you'd like — I can format it with a badge)*
 
-Data visualization and intelligent decision systems
+---
 
-Scalable backend systems and modern architecture
+## ✨ Fun Fact  
+When I’m not coding, I’m exploring new tech trends, reading, or experimenting with automation projects that simplify everyday tasks.
 
-📈 GitHub Stats
+---
+
+⭐ *Thanks for visiting — feel free to explore my repositories or reach out to collaborate!*
