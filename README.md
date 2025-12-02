@@ -38,10 +38,10 @@ I'm a Computer Science graduate from **Dalhousie University**, passionate about 
 
 <!-- Uncomment the stats below by removing the <!–– ––> tags -->
 
-<!--
+
 ![Afi's GitHub stats](https://github-readme-stats.vercel.app/api?username=afi-22&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afi-22&layout=compact&theme=tokyonight)
--->
+
 
 ---
 
