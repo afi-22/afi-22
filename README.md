@@ -39,8 +39,8 @@ I'm a Computer Science graduate from **Dalhousie University**, passionate about 
 <!-- Uncomment the stats below by removing the <!–– ––> tags -->
 
 <!--
-![Afi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Afi's GitHub stats](https://github-readme-stats.vercel.app/api?username=afi-22&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afi-22&layout=compact&theme=tokyonight)
 -->
 
 ---
@@ -49,7 +49,7 @@ I'm a Computer Science graduate from **Dalhousie University**, passionate about 
 
 📍 Halifax, Nova Scotia  
 📧 **marediaafi@gmail.com**  
-🔗 LinkedIn: *(Add link here if you'd like — I can format it with a badge)*
+🔗 LinkedIn: *https://www.linkedin.com/in/afi-maredia/*
 
 ---
 
