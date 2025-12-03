@@ -10,7 +10,7 @@ I enjoy working across the stack—from backend development and automation to fr
 
 ---
 
-## 💡 Top Skills  
+## 💡 Technical Expertise 
 
 ### Programming Languages  
 <p>
@@ -28,7 +28,7 @@ I enjoy working across the stack—from backend development and automation to fr
   <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" title="Bootstrap"/>
-  <img src="httpskeedicons.dev/icons?i=redux" width="50" title="Redux"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="50" title="Redux"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS"/>
 </p>
 
@@ -63,12 +63,12 @@ I enjoy working across the stack—from backend development and automation to fr
 
 ### Frameworks 
 <p> 
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="50"/> 
 </p> 
 
 ### Testing 
 <p> 
-  <img src="https://skillicons.dev/icons?i=java" title="JUnit" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" title="JUnit" width="50"/> 
 </p> 
 
 ### Software 
