@@ -1,17 +1,13 @@
 # Hi 👋, I'm Afi Maredia  
 I'm a Computer Science graduate from **Dalhousie University**, passionate about building efficient, scalable, and user-focused software. I enjoy working across the stack—from backend development and automation to front-end experience and cloud deployments.
 
----
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=afi-22&style=for-the-badge" />
 
-## 🔢 Visitors Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=afi-22&style=for-the-badge)
+</div>
 
----
 
-## 📊 GitHub Stats  
-![Afi's GitHub stats](https://github-readme-stats.vercel.app/api?username=afi-22&show_icons=true&theme=radical&hide_border=true)
-
----
 
 ## 💡 Top Skills  
 
@@ -46,7 +42,7 @@ I'm a Computer Science graduate from **Dalhousie University**, passionate about 
 
 ### Mobile App Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=android" title="Android" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" width="50"/>
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" width="50"/>
 </p>
 
